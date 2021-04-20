@@ -1,0 +1,5 @@
+Order's id: 5
+Customer's id: 4
+Product's id: 3
+Quantity: 1
+Total: 120
